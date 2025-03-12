@@ -6,8 +6,8 @@ To work on this project, you need to set up a virtual environment and install th
 
 1️⃣ Clone the Repository
 
- git clone https://github.com/your-repo.git
- cd your-repo
+ git clone https://github.com/hrumbo/hackaton.git
+ git checkout starting-poc
 
 2️⃣ Create a Virtual Environment
 
